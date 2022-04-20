@@ -38,3 +38,6 @@ export function App() {
 2. Open http://localhost:3000/
 
 It will be auto refreshed in Browser.
+
+
+# Following commits to see steps :)
