@@ -44,6 +44,9 @@ It will be auto refreshed in Browser.
 
 (!) La libreria de Chakra-ui no es compatible a día de hoy con React 18... así que hemos optado por usar [PrimeReact](https://www.primefaces.org/primereact/)
 
+Además, usaremos [PrimeFlex](https://www.primefaces.org/primeflex) para tener acceso a classes CSS de utilidades como márgenes, paddings, etc (p.ej: `mb-5` para un margin bottom)
+
 # Utilities
 * Babel.io tester online: https://babeljs.io/repl
 * Chakra-ui.com Libreria de componentes para diseño (similar a Bootstrap pero en componentes)
+* https://day.js.org/ Librería JS para formateo de fechas
