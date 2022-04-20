@@ -15,8 +15,6 @@ gh repo create react_vite_azaustre --public --source=.
 
 * +info: https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 
-Other utility:
-* Babel.io tester online: https://babeljs.io/repl
 
 ## Clean project
 we can remove files:
@@ -41,3 +39,11 @@ It will be auto refreshed in Browser.
 
 
 # Following commits to see steps :)
+
+# Aplicando diseño!
+
+(!) La libreria de Chakra-ui no es compatible a día de hoy con React 18... así que hemos optado por usar [PrimeReact](https://www.primefaces.org/primereact/)
+
+# Utilities
+* Babel.io tester online: https://babeljs.io/repl
+* Chakra-ui.com Libreria de componentes para diseño (similar a Bootstrap pero en componentes)
